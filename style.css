@@ -1,0 +1,12 @@
+.warehouse-img{
+  background-image: url('https://wallpaperaccess.com/full/2308904.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.guessed{
+  filter: grayscale(100%);
+  border: 2px dashed red;
+}
